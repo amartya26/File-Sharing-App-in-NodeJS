@@ -12,7 +12,7 @@ Templating Engine:- EJS
 
 Functionality:-
 
-This is a simple backend project for File sharing app which creates a sharable link with or without password protection. The routing configuration is done by the Express.
+This is a backend project for File sharing app which creates a sharable link with or without password protection. The routing configuration is done by the Express.
 
 It uses MongoDB to store the files in an encryptrd format. 
 
