@@ -2,13 +2,13 @@
 This is a backend for file sharing app which generates a sharable link to download a file with password protection.ion.
 
 Libraries used:-
-Express
-Mongoose
-DotEnv
-Bcrypt
+Express,
+Mongoose,
+DotEnv,
+Bcrypt,
 Multer
 
-
+Templating Engine:- EJS
 
 Functionality:-
 
